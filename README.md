@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me
 - 📧 Email: 23f7540363@hufiis.edu.vn
-- 🌐 University: [Hue University of Foreign Languages](https://hufl.hueuni.edu.vn)
+- 🌐 University: [Hue University of Foreign Languages](https://huflis.edu.vn/))
 
 ## 🎯 Goals for 2025
 - ✅ Master web development fundamentals
