@@ -12,7 +12,7 @@
 - **Currently Learning:** React, Node.js
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kieutram2005&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - 📧 Email: 23f7540363@hufiis.edu.vn
