@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lê Thị Kiều Trâm
 
-<!--
-**kieutram2005/kieutram2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 📚 Student at **University of Foreign Languages - Hue University**
+- 🌱 Currently learning **English Language** and **Programming**
+- 💻 Interested in web development and software engineering
+- 📍 Based in Hue, Vietnam
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- 📧 Email: 23f7540363@hufiis.edu.vn
+- 🌐 University: [Hue University of Foreign Languages](https://hufl.hueuni.edu.vn)
+
+## 🎯 Goals for 2025
+- ✅ Master web development fundamentals
+- ✅ Contribute to open source projects
+- ✅ Build practical projects for learning
+- ✅ Improve English programming skills
+
+---
+
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
